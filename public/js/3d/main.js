@@ -1,0 +1,4 @@
+PointerLockEnable();
+app.init();
+
+

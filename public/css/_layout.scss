@@ -1,0 +1,16 @@
+body{
+  background: url('../img/site-img/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.site-content {
+  .content-layout {
+    width: 980px;
+    margin: 0 auto;
+    margin-top: 300px;
+    .head-title {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+  }
+}
